@@ -1,5 +1,11 @@
-d 'DEA': Data envelopment analysis
+d 'Metandi': Meta-analysis of test accuracy studies Use Metandi With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+
+metandi.ado
+metandi.hlp
+metandi.pkg
+metandi.xlsx
+metandi_p.ado
+metandi_postestimation.hlp
+metandiplot.ado
+metandiplot.hlp
