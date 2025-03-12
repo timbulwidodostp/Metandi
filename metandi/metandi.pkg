@@ -1,11 +1,8 @@
 d 'Metandi': Meta-analysis of test accuracy studies Use Metandi With STATA 18
 d
-
-metandi.ado
-metandi.hlp
-metandi.pkg
-metandi.xlsx
-metandi_p.ado
-metandi_postestimation.hlp
-metandiplot.ado
-metandiplot.hlp
+f metandi.ado
+f metandi.hlp
+f metandi_p.ado
+f metandi_postestimation.hlp
+f metandiplot.ado
+f metandiplot.hlp
