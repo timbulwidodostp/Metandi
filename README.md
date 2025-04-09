@@ -1,6 +1,8 @@
 # Metandi
 Meta-analysis of test accuracy studies Use Metandi With STATA 18
 
+https://www.youtube.com/watch?v=UU52BKf7kYI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
